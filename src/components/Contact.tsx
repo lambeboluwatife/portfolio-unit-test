@@ -84,7 +84,12 @@ const Contact = () => {
                   ></textarea>
                 </div>
               </div>
-              <input type="submit" value="Submit" className="submit" />
+              <input
+                type="submit"
+                value="Submit"
+                name="submit"
+                className="submit"
+              />
             </form>
           </div>
         </div>
